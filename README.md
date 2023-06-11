@@ -1,2 +1,3 @@
 # mac-scripts
  
+Hier sammle ich Scripts, die auf macOS laufen...
